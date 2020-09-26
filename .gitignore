@@ -1,0 +1,37 @@
+# Project exclude paths
+/.gradle/
+/Flashcards/task/build/
+/Flashcards/task/out/
+/Flashcards/task/out/production/classes/
+/Problems/A capital letter or a digit/out/
+/Problems/A capital letter or a digit/out/production/classes/
+/Problems/Distance/out/
+/Problems/Distance/out/production/classes/
+/Problems/Evaluate an expression/out/
+/Problems/Evaluate an expression/out/production/classes/
+/Problems/Evaluate an expression (1)/out/
+/Problems/Evaluate an expression (1)/out/production/classes/
+/Problems/Find X/out/
+/Problems/Find X/out/production/classes/
+/Problems/Fourth root/out/
+/Problems/Fourth root/out/production/classes/
+/Problems/Fractional part/out/
+/Problems/Fractional part/out/production/classes/
+/Problems/House inheritance/out/
+/Problems/House inheritance/out/production/classes/
+/Problems/Letters/out/
+/Problems/Letters/out/production/classes/
+/Problems/Max of four numbers/out/
+/Problems/Max of four numbers/out/production/classes/
+/Problems/Most common/out/
+/Problems/Most common/out/production/classes/
+/Problems/Quadratic equation/out/
+/Problems/Quadratic equation/out/production/classes/
+/Problems/Reddit/out/
+/Problems/Reddit/out/production/classes/
+/Problems/Safe round/out/
+/Problems/Safe round/out/production/classes/
+/Problems/Strings as objects/out/
+/Problems/Strings as objects/out/production/classes/
+/Problems/The sum of digits/out/
+/Problems/The sum of digits/out/production/classes/

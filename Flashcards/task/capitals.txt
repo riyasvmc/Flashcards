@@ -1,0 +1,3 @@
+
+Russia:::Moscow:::4
+France:::Paris:::1

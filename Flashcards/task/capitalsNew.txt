@@ -1,0 +1,4 @@
+
+France:::Paris:::0
+Japan:::Tokyo:::0
+Russia:::Moscow:::4
